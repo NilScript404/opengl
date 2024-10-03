@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Clion Projects/opengl/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/untitled6.dir/includes_CXX.rsp -g -o CMakeFiles\\untitled6.dir\\main.cpp.obj -c \"C:\\Clion Projects\\opengl\\main.cpp\"",
+  "file": "C:/Clion Projects/opengl/main.cpp",
+  "output": "CMakeFiles/untitled6.dir/main.cpp.obj"
+}
+]
